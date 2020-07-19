@@ -352,7 +352,7 @@ After the plugins have been downloaded, we do **terraform apply**.
   ![](/images/tf1.png)
   
 
-Finally, you'll see your home page open up. 
+Finally, you'll see your home page open up. I had put in just a Hii message & an image. You can write your own code as desired.
 
 ![](/images/Untitled1.png)
 
